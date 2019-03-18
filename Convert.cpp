@@ -1,4 +1,4 @@
-﻿#include "Thịnh_Deadline2.h"
+﻿#include "Converter.h"
 
 void reverseStr(string &str) {
 	int n = str.length();
